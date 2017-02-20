@@ -105,6 +105,7 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+
     .one{
         background-image: url(../img/shouye.jpg);
         position: relative;
